@@ -5,9 +5,14 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Omar Martínez y soy mercadólogo deportivo =)'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Mi vida ha ido encaminada de la mano con el mundo deportivo, aunque sin el
+      éxito de las grandes estrellas, pero con mucha emoción.
+
+
+      Si quieres divertirte y descubrir el deporte a través de mis vivencias, no
+      dudes en seguirme ¡Te divertirás!. Aunque si no me sigues, tal vez no te
+      pierdas de mucho.
     actions:
       - label: Let's talk
         url: /contact
